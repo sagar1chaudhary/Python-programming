@@ -1,0 +1,6 @@
+l=int(input("enter"))
+b=int(input("enter"))
+print(2*(l+b))
+print(l*b)
+
+
